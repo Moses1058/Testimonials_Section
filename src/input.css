@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.first_card {
+    background-image: url(./assets/quotation.svg);
+    background-repeat: no-repeat;
+    background-size: 120px 120px;
+    background-position: right 10% top 0;
+}
